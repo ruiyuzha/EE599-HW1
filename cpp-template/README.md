@@ -1,3 +1,3 @@
-# Print my personal information
+# Print some personal information
 
 Based on cpp-template
